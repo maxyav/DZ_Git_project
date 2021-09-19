@@ -105,7 +105,15 @@ private:
 
 
 
+
+
+//добавляем второй частью в git
 int main()
 {
-    std::cout << "Hello World!\n";
+    Type_Technics computer1;
+    Type_Technics mobile1;
+
+
 }
+
+
